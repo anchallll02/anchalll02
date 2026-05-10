@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+%26+Data+Science+Enthusiast;Building+Creative+Web+Experiences+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+%26+Data+Science+Enthusiast;Building+Creative+Web+Experiences+✨;Learning+and+Growing+Everyday+🚀" />
 </p>
 
 ---
@@ -24,8 +24,9 @@
 💻 Passionate about **Full Stack Web Development**  
 🚀 Currently learning **Advanced MERN Stack & AI Integrations**  
 🤖 Interested in **AI-powered Applications & Real-Time Systems**  
-✨ Love creating beautiful & user-friendly interfaces  
-📚 Exploring **DSA, Open Source & Backend Development**  
+✨ Love creating beautiful & responsive user interfaces  
+📚 Exploring **DSA, Backend Development & Open Source**  
+🧩 Familiar with **REST APIs & Third-Party Client Integrations**  
 🎀 Turning ideas into interactive web experiences  
 📫 Reach me at: **anchalmaurya0206@gmail.com**
 
@@ -61,12 +62,12 @@
 
 ### 🌸 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### 🎨 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,java script,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
@@ -79,9 +80,18 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+### 🔗 API & Clients
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+<p align="center">
+💡 Experience working with REST APIs & Third-Party Clients
+</p>
+
 ### 🛠️ Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
