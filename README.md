@@ -1,112 +1,146 @@
-<h1 align="center">Hi 👋, I'm Anchal Maurya</h1>
+<h1 align="center">Hey there 👋, I'm Anchal Maurya</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🚀 MERN Stack Developer | 🤖 AI Enthusiast
+💖 Full Stack Developer | MERN Stack Enthusiast | AI Explorer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+%26+Data+Science+Enthusiast;Building+Real-Time+Applications;Open+Source+Learner+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+%26+Data+Science+Enthusiast;Building+Creative+Web+Experiences+✨" />
 </p>
 
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280"/>
 </div>
+
+---
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="260" src="https://i.pinimg.com/originals/61/8c/6f/618c6f5f1c6f8d7b5f6efb1a4dbb7b8b.gif">
 
-🎓 B.Tech CSE Student at **United University, Prayagraj**  
+🌸 B.Tech CSE Student at **United University, Prayagraj**  
 💻 Passionate about **Full Stack Web Development**  
 🚀 Currently learning **Advanced MERN Stack & AI Integrations**  
 🤖 Interested in **AI-powered Applications & Real-Time Systems**  
-⚡ Love building modern, responsive & scalable applications  
-🏆 Hackathon & coding challenge participant  
-📚 Exploring **DSA, System Design & Open Source**  
+✨ Love creating beautiful & user-friendly interfaces  
+📚 Exploring **DSA, Open Source & Backend Development**  
+🎀 Turning ideas into interactive web experiences  
 📫 Reach me at: **anchalmaurya0206@gmail.com**
 
 <br>
 
 ---
 
-# 🌐 Connect With Me
+# 🌷 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/anchal-maurya" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-e75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/anchallll02" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/anchalll_02/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-ffb6c1?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:anchalmaurya0206@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-ff85a2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
-## 👨‍💻 Languages
+### 🌸 Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
 </p>
 
-## 🎨 Frontend Development
+### 🎨 Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
-## ⚙️ Backend Development
+### ⚙️ Backend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# ✨ Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 📈 **Stock Trading Platform** | Full Stack trading dashboard with real-time stock data & secure authentication | MERN Stack |
-| 🤖 **SigmaGPT** | AI chatbot using OpenAI API with dynamic prompt engineering | React, Node.js |
-| 📹 **Real-Time Video Calling App** | WebRTC + Socket.IO based video communication platform | React, WebRTC |
+### 📈 Stock Trading Platform
+💖 Full Stack MERN Application  
+📊 Real-time stock data  
+🔐 Secure authentication system  
+🎨 Responsive dashboard UI  
 
-</div>
+</td>
+
+<td width="50%">
+
+### 🤖 SigmaGPT
+💬 ChatGPT-like AI application  
+🧠 OpenAI API integration  
+⚡ Dynamic React frontend  
+🚀 Node.js backend  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📹 Real-Time Video Calling App
+🎥 Video communication system  
+⚡ WebRTC & Socket.IO  
+💻 React + Node.js architecture  
+
+</td>
+
+<td width="50%">
+
+### 🌸 More Coming Soon...
+✨ Working on exciting projects  
+🚀 Exploring AI + MERN ideas  
+💡 Learning every day  
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🏆 Achievements
 
-🏅 Second Position in Engineering Project Presentation  
-🏅 Participated in HackDiwas 2.0  
-🏅 Participated in Prarambh 2025 Hackathon  
-🏅 Completed AI, SQL & Full Stack Certifications  
-🏅 Solved DSA Problems on LeetCode  
+🌟 Second Position in Engineering Project Presentation  
+🌟 Participated in HackDiwas 2.0  
+🌟 Participated in Prarambh 2025 Hackathon  
+🌟 Completed AI, SQL & Full Stack Certifications  
+🌟 Solved DSA Problems on LeetCode  
 
 ---
 
@@ -114,32 +148,20 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anchallll02&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anchallll02&show_icons=true&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anchallll02&theme=tokyonight&hide_border=true" height="180em"/>
+<br><br>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchallll02&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchallll02&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 🌸 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anchallll02&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anchallll02&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -147,15 +169,15 @@
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=anchallll02&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=anchallll02&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 </p>
 
 ---
 
 <h3 align="center">
-✨ "Code • Create • Innovate" ✨
+✨ “Code • Create • Inspire” ✨
 </h3>
 
 <p align="center">
-Thanks for visiting my profile ❤️
+💖 Thanks for visiting my profile 💖
 </p>
