@@ -61,12 +61,12 @@
 
 ### 🌸 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### 🎨 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,java script,react,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
